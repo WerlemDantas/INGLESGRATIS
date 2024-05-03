@@ -1,13 +1,13 @@
 import Course from "./course";
-import img1 from "../../public/images/course1.jpg"
-import img2 from "../../public/images/course2.jpg"
-import img3 from "../../public/images/course3.jpg"
-import img4 from "../../public/images/course4.jpg"
-import img5 from "../../public/images/course5.jpg"
-import img6 from "../../public/images/course6.jpg"
-import img7 from "../../public/images/course7.jpg"
-import img8 from "../../public/images/course8.jpg"
-import img9 from "../../public/images/course9.jpg"
+import img1 from "../../public/images/course1.png"
+import img2 from "../../public/images/course2.png"
+import img3 from "../../public/images/course3.png"
+import img4 from "../../public/images/course4.png"
+import img5 from "../../public/images/course5.png"
+import img6 from "../../public/images/course6.png"
+import img7 from "../../public/images/course7.png"
+import img8 from "../../public/images/course8.png"
+import img9 from "../../public/images/course9.png"
 
 export default function ContentCourse (){
     return (
