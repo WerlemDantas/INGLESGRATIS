@@ -23,7 +23,7 @@ export default function Course(props:CourseProps){
 
                 <div className={`ml-20 ${props.classname}`}>
                     <h1 className="font-bold mb-4 text-2xl text-green-900">{props.plat}</h1>
-                    <a className="text-xl text-green-700 hover:text-blue-900" href={props.href} target="_blank">Ir para o curso</a>
+                    <a className="text-xl text-green-700 hover:text-blue-900 hover:underline" href={props.href} target="_blank">Ir para o curso</a>
                 </div>
 
                 <div className=" ">

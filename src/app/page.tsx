@@ -1,5 +1,6 @@
 import Apresentation from "@/components/apresentation";
 import ContentCourse from "@/components/contentCourses";
+import Footer from "@/components/footer";
 
 import Header from "@/components/header";
 import Image from "next/image";
@@ -9,7 +10,7 @@ export default function Home() {
     <div className="bg-gray-300 h-full">
           
           <Header/>
-           <br /><br />
+           <br /><br /> 
         
 
         <div className="">
@@ -20,6 +21,10 @@ export default function Home() {
          
          <div>
           <ContentCourse/>
+         </div>
+           <br />
+         <div>
+          <Footer/>
          </div>
     </div>
   );
